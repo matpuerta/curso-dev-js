@@ -40,3 +40,19 @@ orientada a objetos, funcional, imperativa)
 Assíncrona (usando async/await, Promises, etc.)
 
 Suporta eventos, DOM manipulation, e muito mais
+
+Na versão mais modera foi implementado recursos poderosos:
+
+let e const
+
+Arrow functions
+
+Classes
+
+Módulos
+
+Promises e async/await
+
+Desestruturação
+
+Operador spread/rest
