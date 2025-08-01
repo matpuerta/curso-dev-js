@@ -1,0 +1,42 @@
+JavaScript é uma linguagem de programação de alto nível,
+interpretada, principalmente usada para desenvolver
+páginas web interativas.
+
+É uma das três principais tecnologias da web:
+
+    HTML – estrutura da página
+
+    CSS – estilo (cores, layout, etc.)
+
+    JavaScript – comportamento (interatividade,
+    lógica, animações, etc.)
+
+JavaScript permite:
+
+Mostrar/ocultar elementos na página
+
+Criar animações
+
+Validar formulários
+
+Fazer requisições para servidores
+(ex: pegar dados de uma API)
+
+Criar aplicações completas no navegador 
+(como jogos, chats, editores de texto)
+
+Desenvolver apps back-end com Node.js
+
+Criar aplicativos móveis, desktops e muito mais 
+(React Native, Electron, etc.)
+
+Características do JavaScript:
+
+Linguagem dinâmica (tipagem flexível)
+
+Multiparadigma (suporta programação 
+orientada a objetos, funcional, imperativa)
+
+Assíncrona (usando async/await, Promises, etc.)
+
+Suporta eventos, DOM manipulation, e muito mais
